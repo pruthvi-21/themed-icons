@@ -22,6 +22,69 @@
         drawable="adap_google_photos" />
 
     <item
+        component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="adap_samsung_calculator" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
+        drawable="adap_samsung_contacts" />
+    <item
+        component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
+        drawable="adap_samsung_galaxy_store" />
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
+        drawable="adap_samsung_gallery" />
+    <item
+        component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}"
+        drawable="adap_samsung_game_launcher" />
+    <item
+        component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}"
+        drawable="adap_samsung_good_lock" />
+    <item
+        component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
+        drawable="adap_samsung_health" />
+    <item
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+        drawable="adap_samsung_messaging" />
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="adap_samsung_music" />
+    <item
+        component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncherJPN}"
+        drawable="adap_samsung_pass" />
+    <item
+        component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
+        drawable="adap_samsung_phone" />
+    <item
+        component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}"
+        drawable="adap_samsung_smartthings" />
+    <item
+        component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
+        drawable="adap_samsung_sound_assistant" />
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="adap_samsung_voice_recorder" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
+        drawable="adap_samsung_wear" />
+    <item
+        component="ComponentInfo{com.samsung.android.forest/com.samsung.android.forest.launcher.LauncherActivity}"
+        drawable="adap_samsung_wellbeing" />
+    <item
         component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
         drawable="adap_sbrowser" />
+
+
+    <!-- Scaling issue -->
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
+        drawable="adap_samsung_files" />
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="adap_samsung_camera" />
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="adap_samsung_clock" />
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="adap_samsung_settings" />
 </resources>
