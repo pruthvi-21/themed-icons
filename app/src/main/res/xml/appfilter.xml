@@ -25,8 +25,17 @@
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
         drawable="adap_samsung_calculator" />
     <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="adap_samsung_camera" />
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="adap_samsung_clock" />
+    <item
         component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
         drawable="adap_samsung_contacts" />
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
+        drawable="adap_samsung_files" />
     <item
         component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
         drawable="adap_samsung_galaxy_store" />
@@ -55,6 +64,9 @@
         component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
         drawable="adap_samsung_phone" />
     <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="adap_samsung_settings" />
+    <item
         component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}"
         drawable="adap_samsung_smartthings" />
     <item
@@ -72,19 +84,4 @@
     <item
         component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
         drawable="adap_sbrowser" />
-
-
-    <!-- Scaling issue -->
-    <item
-        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
-        drawable="adap_samsung_files" />
-    <item
-        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
-        drawable="adap_samsung_camera" />
-    <item
-        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
-        drawable="adap_samsung_clock" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="adap_samsung_settings" />
 </resources>
