@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <!--    <iconback img1="icon_bg" />-->
+    <!--    <iconmask img1="iconmask" />-->
+    <!--    <iconupon img1="iconupon" />-->
+    <!--    <scale factor=".75" />-->
+
     <item
-        component="ComponentInfo{/}"
-        drawable="" />
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="adap_google_calendar" />
+
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="adap_google_mail" />
+
+    <item
+        component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+        drawable="adap_google_maps" />
+
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="adap_google_photos" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="adap_sbrowser" />
 </resources>

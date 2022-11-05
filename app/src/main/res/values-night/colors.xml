@@ -30,4 +30,7 @@
     <color name="color_on_error">#601410</color>
     <color name="error_container_color">#8c1d18</color>
     <color name="color_on_error_container">#f2b8b5</color>
+
+    <color name="fg_icon_tint">#000</color>
+    <color name="bg_icon_tint">@android:color/system_accent1_300</color>
 </resources>
