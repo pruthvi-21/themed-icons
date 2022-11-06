@@ -31,6 +31,9 @@
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
         drawable="adap_samsung_calculator" />
     <item
+        component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+        drawable="adap_samsung_calendar" />
+    <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="adap_samsung_camera" />
     <item
@@ -40,8 +43,14 @@
         component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
         drawable="adap_samsung_contacts" />
     <item
+        component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="adap_samsung_email" />
+    <item
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
         drawable="adap_samsung_files" />
+    <item
+        component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}"
+        drawable="adap_samsung_flow" />
     <item
         component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
         drawable="adap_samsung_galaxy_store" />
@@ -58,11 +67,17 @@
         component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
         drawable="adap_samsung_health" />
     <item
+        component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}"
+        drawable="adap_samsung_members" />
+    <item
         component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
         drawable="adap_samsung_messaging" />
     <item
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
         drawable="adap_samsung_music" />
+    <item
+        component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}"
+        drawable="adap_samsung_notes" />
     <item
         component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncherJPN}"
         drawable="adap_samsung_pass" />
@@ -84,6 +99,9 @@
     <item
         component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
         drawable="adap_samsung_voice_recorder" />
+    <item
+        component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}"
+        drawable="adap_samsung_wallet" />
     <item
         component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
         drawable="adap_samsung_wear" />
