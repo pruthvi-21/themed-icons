@@ -12,10 +12,10 @@
         android:strokeAlpha="0.0"
         android:strokeColor="#00000000" />
     <group
-        android:scaleX="0.31836733"
-        android:scaleY="0.31836733"
-        android:translateX="39.307346"
-        android:translateY="32.94">
+        android:scaleX="0.35"
+        android:scaleY="0.35"
+        android:translateX="38.5"
+        android:translateY="32">
         <path
             android:fillColor="#1a73e8"
             android:pathData="M60.2,2.2C55.8,0.8 51,0 46.1,0 32,0 19.3,6.4 10.8,16.5l21.8,18.3L60.2,2.2z" />
