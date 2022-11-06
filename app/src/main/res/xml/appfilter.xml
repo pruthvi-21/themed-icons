@@ -22,6 +22,9 @@
         drawable="adap_google_photos" />
 
     <item
+        component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
+        drawable="adap_samsung_ar_zone" />
+    <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
         drawable="adap_samsung_calculator" />
     <item
@@ -73,6 +76,9 @@
         component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
         drawable="adap_samsung_sound_assistant" />
     <item
+        component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}"
+        drawable="adap_samsung_video" />
+    <item
         component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
         drawable="adap_samsung_voice_recorder" />
     <item
@@ -84,4 +90,5 @@
     <item
         component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
         drawable="adap_sbrowser" />
+
 </resources>
