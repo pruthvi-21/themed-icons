@@ -25,6 +25,9 @@
         component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
         drawable="adap_samsung_ar_zone" />
     <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="adap_samsung_browser" />
+    <item
         component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
         drawable="adap_samsung_calculator" />
     <item
@@ -87,8 +90,5 @@
     <item
         component="ComponentInfo{com.samsung.android.forest/com.samsung.android.forest.launcher.LauncherActivity}"
         drawable="adap_samsung_wellbeing" />
-    <item
-        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
-        drawable="adap_sbrowser" />
 
 </resources>
