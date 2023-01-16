@@ -5,6 +5,14 @@
     android:viewportWidth="108.0"
     android:viewportHeight="108.0">
     <path
+        android:fillAlpha="@dimen/demo_bg_fill_alpha"
+        android:fillColor="@color/bg_demo_color"
+        android:fillType="evenOdd"
+        android:pathData="M81.57,26C74.96,19.35 65.06,18 54,18C42.93,18 33.04,19.35 26.43,26C21.17,31.3 18,39.97 18,54C18,68.03 21.17,76.7 26.43,82C33.04,88.65 42.94,90 54,90C65.06,90 74.96,88.65 81.56,82C86.83,76.7 90,68.03 90,54C90,39.97 86.83,31.3 81.57,26Z"
+        android:strokeWidth="@dimen/bg_stroke_width"
+        android:strokeAlpha="@dimen/bg_stroke_alpha"
+        android:strokeColor="@color/bg_stroke_color" />
+    <path
         android:fillColor="#E6E6E6"
         android:pathData="M54.064,74.5C60.968,74.5 67.121,71.332 71.128,66.391C69.381,58.662 62.407,52.886 54.064,52.886C45.721,52.886 38.747,58.662 37,66.391C41.007,71.332 47.159,74.5 54.064,74.5M61.75,41.25C61.75,45.53 58.28,49 54,49C49.72,49 46.25,45.53 46.25,41.25C46.25,36.97 49.72,33.5 54,33.5C58.28,33.5 61.75,36.97 61.75,41.25" />
 </vector>

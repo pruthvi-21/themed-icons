@@ -4,13 +4,13 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
     <path
-        android:fillAlpha="0"
-        android:fillColor="#ff9d9cb2"
+        android:fillAlpha="@dimen/demo_bg_fill_alpha"
+        android:fillColor="@color/bg_demo_color"
         android:fillType="evenOdd"
-        android:pathData="M81.566,26C74.963,19.35 65.064,18 54,18C42.935,18 33.037,19.35 26.434,26C21.171,31.3 18,39.967 18,54C18,68.033 21.171,76.7 26.434,82.001C33.038,88.649 42.935,90 54,90C65.063,90 74.961,88.649 81.565,82.001C86.829,76.7 90,68.033 90,54C90,39.967 86.829,31.3 81.566,26Z"
-        android:strokeWidth="1.0"
-        android:strokeAlpha="0.0"
-        android:strokeColor="#00000000" />
+        android:pathData="M81.57,26C74.96,19.35 65.06,18 54,18C42.93,18 33.04,19.35 26.43,26C21.17,31.3 18,39.97 18,54C18,68.03 21.17,76.7 26.43,82C33.04,88.65 42.94,90 54,90C65.06,90 74.96,88.65 81.56,82C86.83,76.7 90,68.03 90,54C90,39.97 86.83,31.3 81.57,26Z"
+        android:strokeWidth="@dimen/bg_stroke_width"
+        android:strokeAlpha="@dimen/bg_stroke_alpha"
+        android:strokeColor="@color/bg_stroke_color" />
     <group
         android:scaleX="0.68"
         android:scaleY="0.68"

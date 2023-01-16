@@ -34,4 +34,6 @@
     <color name="bg_icon_tint">#ffffffff</color>
     <color name="fg_icon_tint">@android:color/system_accent1_300</color>
     <color name="fg_icon_dark_accent_shade">@android:color/system_accent1_600</color>
+    <color name="bg_demo_color">#9D9CB2</color>
+    <color name="bg_stroke_color">#000000</color>
 </resources>

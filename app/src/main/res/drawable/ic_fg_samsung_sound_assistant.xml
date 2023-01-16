@@ -5,6 +5,14 @@
     android:viewportWidth="108.0"
     android:viewportHeight="108.0">
     <path
+        android:fillAlpha="@dimen/demo_bg_fill_alpha"
+        android:fillColor="@color/bg_demo_color"
+        android:fillType="evenOdd"
+        android:pathData="M81.57,26C74.96,19.35 65.06,18 54,18C42.93,18 33.04,19.35 26.43,26C21.17,31.3 18,39.97 18,54C18,68.03 21.17,76.7 26.43,82C33.04,88.65 42.94,90 54,90C65.06,90 74.96,88.65 81.56,82C86.83,76.7 90,68.03 90,54C90,39.97 86.83,31.3 81.57,26Z"
+        android:strokeWidth="@dimen/bg_stroke_width"
+        android:strokeAlpha="@dimen/bg_stroke_alpha"
+        android:strokeColor="@color/bg_stroke_color" />
+    <path
         android:fillColor="#00000000"
         android:fillType="evenOdd"
         android:pathData="M36.3,38.9L72.3,38.9"
