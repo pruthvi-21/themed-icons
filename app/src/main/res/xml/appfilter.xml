@@ -69,6 +69,9 @@
         component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}"
         drawable="adap_samsung_phone" />
     <item
+        component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}"
+        drawable="adap_samsung_secure_folder" />
+    <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="adap_samsung_settings" />
     <item
