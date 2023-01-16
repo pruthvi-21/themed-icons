@@ -13,14 +13,10 @@
         android:strokeAlpha="@dimen/bg_stroke_alpha"
         android:strokeColor="@color/bg_stroke_color" />
     <group
-        android:scaleX="3.5"
-        android:scaleY="3.5"
-        android:translateX="12"
-        android:translateY="12">
-        <path
-            android:fillAlpha="0.0"
-            android:fillColor="#ff9d9cb2"
-            android:pathData="M1,12C1,4 4,1 12,1s11,3 11,11 -3,11 -11,11S1,20 1,12" />
+        android:scaleX="3.25"
+        android:scaleY="3.25"
+        android:translateX="14.5"
+        android:translateY="14.5">
         <path
             android:fillColor="#E6E6E6"
             android:pathData="M17,7.32H7A1.68,1.68 0,0 0,5.28 9v6A1.68,1.68 0,0 0,7 16.68h1v1.92l1.21,-1.92H17A1.68,1.68 0,0 0,18.72 15V9A1.68,1.68 0,0 0,17 7.32Z" />
