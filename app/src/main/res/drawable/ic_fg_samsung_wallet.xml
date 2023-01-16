@@ -19,16 +19,16 @@
         android:translateX="17.5"
         android:translateY="10.5">
         <path
-            android:fillColor="#1D49C2"
+            android:fillColor="#E6E6E6"
             android:pathData="M13,16.9h20.9c2.2,0 3.9,1.8 3.9,3.9v14.4c0,2.2 -1.8,3.9 -3.9,3.9H13c-2.2,0 -3.9,-1.8 -3.9,-3.9V20.8C9.1,18.7 10.9,16.9 13,16.9z" />
         <path
-            android:fillColor="#81A4FF"
+            android:fillColor="@android:color/system_accent1_500"
             android:pathData="M13.7,18.9h19.6c1.4,0 2.6,1.2 2.6,2.6v13.1c0,1.4 -1.2,2.6 -2.6,2.6H13.7c-1.4,0 -2.6,-1.2 -2.6,-2.6V21.5C11.1,20 12.3,18.9 13.7,18.9z" />
         <path
-            android:fillColor="#001B65"
+            android:fillColor="@color/fg_icon_dark_accent_shade"
             android:pathData="M11.1,22.5h24.8V26H11.1V22.5z" />
         <path
-            android:fillColor="#1D49C2"
+            android:fillColor="#E6E6E6"
             android:pathData="M10.8,34.4h4.4c2.2,0 3.4,-1.2 4.7,-3.7c1.2,-2.5 2.9,-6.7 5,-12.5h11.7v19.6H10.8L10.8,34.4z" />
     </group>
 </vector>

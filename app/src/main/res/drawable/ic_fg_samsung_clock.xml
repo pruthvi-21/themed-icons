@@ -14,10 +14,10 @@
             android:fillType="evenOdd"
             android:pathData="M1,12C1,4 4,1 12,1s11,3 11,11 -3,11 -11,11S1,20 1,12" />
         <path
-            android:fillColor="#725AE8"
+            android:fillColor="#E6E6E6"
             android:pathData="M12,12m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
         <path
-            android:fillColor="#fff"
+            android:fillColor="@color/fg_icon_dark_accent_shade"
             android:pathData="m13.91,13.22 l-1.43,-1.43V7.66a0.51,0.51 0,0 0,-0.5 -0.5,0.5 0.5,0 0,0 -0.5,0.5V12a0.5,0.5 0,0 0,0.14 0.36l1.58,1.58a0.5,0.5 0,0 0,0.71 -0.71Z" />
 
     </group>
