@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
@@ -11,22 +12,12 @@
         android:strokeWidth="@dimen/bg_stroke_width"
         android:strokeAlpha="@dimen/bg_stroke_alpha"
         android:strokeColor="@color/bg_stroke_color" />
-    <group
-        android:scaleX="3.5"
-        android:scaleY="3.5"
-        android:translateX="12"
-        android:translateY="12">
-        <path
-            android:fillAlpha="0.0"
-            android:fillColor="#ff9d9cb2"
-            android:pathData="M1,12C1,4 4,1 12,1s11,3 11,11 -3,11 -11,11S1,20 1,12" />
-        <path
-            android:fillColor="@color/fg_icon_dark_accent_shade"
-            android:fillType="evenOdd"
-            android:pathData="M7.64,8.63h4.65l-0.21,-0.73a1,1 0,0 0,-1 -0.71H7a1,1 0,0 0,-1 1v2.07a1.63,1.63 0,0 1,1.64 -1.63Z" />
-        <path
-            android:fillColor="#E6E6E6"
-            android:fillType="evenOdd"
-            android:pathData="M17,16.81H7a1,1 0,0 1,-1 -1V9.63a1,1 0,0 1,1 -1h10a1,1 0,0 1,1 1v6.18a1,1 0,0 1,-1 1Z" />
-    </group>
+    <path
+        android:fillColor="@color/fg_icon_tint_light"
+        android:fillType="evenOdd"
+        android:pathData="M38.76,42.22L55.03,42.22L54.3,39.67C54.08,38.92 53.61,38.28 52.98,37.83C52.34,37.38 51.58,37.15 50.8,37.19L36.52,37.19C35.59,37.19 34.7,37.55 34.05,38.21C33.39,38.87 33.02,39.76 33.02,40.68L33.02,47.93C33.02,46.93 33.29,45.94 33.79,45.07C34.29,44.2 35.02,43.48 35.89,42.98C36.76,42.48 37.76,42.22 38.76,42.22Z" />
+    <path
+        android:fillColor="@color/fg_icon_tint"
+        android:fillType="evenOdd"
+        android:pathData="M71.5,70.83L36.5,70.83C35.57,70.83 34.68,70.47 34.03,69.81C33.37,69.15 33,68.26 33,67.33L33,45.71C33,44.78 33.37,43.88 34.03,43.23C34.68,42.57 35.57,42.21 36.5,42.21L71.5,42.21C72.43,42.21 73.32,42.57 73.97,43.23C74.63,43.88 75,44.78 75,45.71L75,67.33C75,67.95 74.84,68.55 74.53,69.08C74.22,69.62 73.78,70.06 73.25,70.37C72.72,70.67 72.12,70.83 71.5,70.83Z" />
 </vector>

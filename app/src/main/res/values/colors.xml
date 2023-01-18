@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="fg_icon_base_tint">#ffffffff</color>
+    <color name="fg_icon_tint">#E6E6E6</color>
+    <color name="fg_icon_tint_light">@android:color/system_accent1_200</color>
+    <color name="fg_icon_tint_dark">@android:color/system_accent1_600</color>
     <color name="bg_icon_tint">@android:color/system_accent1_400</color>
-    <color name="fg_icon_dark_accent_shade">@android:color/system_accent1_500</color>
     <color name="bg_demo_color">#000</color>
     <color name="bg_stroke_color">#000000</color>
 </resources>
