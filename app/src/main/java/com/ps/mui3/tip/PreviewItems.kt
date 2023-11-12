@@ -26,6 +26,7 @@ object PreviewItems {
         R.drawable.adap_samsung_phone,
         R.drawable.adap_samsung_secure_folder,
         R.drawable.adap_samsung_settings,
+        R.drawable.adap_samsung_shop,
         R.drawable.adap_samsung_smartthings,
         R.drawable.adap_samsung_sound_assistant,
         R.drawable.adap_samsung_video,

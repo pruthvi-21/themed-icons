@@ -150,6 +150,9 @@
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="adap_samsung_settings" />
     <item
+        component="ComponentInfo{com.samsung.ecomm.global.in/com.samsung.ecomm.global.shop_app.MainActivity}"
+        drawable="adap_samsung_shop" />
+    <item
         component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}"
         drawable="adap_samsung_smartthings" />
     <item
