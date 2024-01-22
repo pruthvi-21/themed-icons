@@ -141,6 +141,9 @@
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
         drawable="adap_samsung_music" />
     <item
+        component="ComponentInfo{com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity}"
+        drawable="adap_samsung_nice_catch" />
+    <item
         component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}"
         drawable="adap_samsung_notes" />
     <item

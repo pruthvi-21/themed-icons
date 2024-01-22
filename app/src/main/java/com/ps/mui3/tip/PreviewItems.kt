@@ -23,6 +23,7 @@ object PreviewItems {
         R.drawable.adap_samsung_members,
         R.drawable.adap_samsung_messaging,
         R.drawable.adap_samsung_music,
+        R.drawable.adap_samsung_nice_catch,
         R.drawable.adap_samsung_notes,
         R.drawable.adap_samsung_pass,
         R.drawable.adap_samsung_phone,
