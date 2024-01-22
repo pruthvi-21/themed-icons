@@ -162,6 +162,9 @@
         component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
         drawable="adap_samsung_sound_assistant" />
     <item
+        component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}"
+        drawable="adap_samsung_theme_park" />
+    <item
         component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}"
         drawable="adap_samsung_video" />
     <item

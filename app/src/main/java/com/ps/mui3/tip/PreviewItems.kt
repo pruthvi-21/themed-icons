@@ -30,6 +30,7 @@ object PreviewItems {
         R.drawable.adap_samsung_shop,
         R.drawable.adap_samsung_smartthings,
         R.drawable.adap_samsung_sound_assistant,
+        R.drawable.adap_samsung_theme_park,
         R.drawable.adap_samsung_video,
         R.drawable.adap_samsung_voice_recorder,
         R.drawable.adap_samsung_wallet,
