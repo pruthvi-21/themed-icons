@@ -11,6 +11,7 @@ object PreviewItems {
         R.drawable.adap_samsung_contacts,
         R.drawable.adap_samsung_email,
         R.drawable.adap_samsung_files,
+        R.drawable.adap_samsung_find,
         R.drawable.adap_samsung_flow,
         R.drawable.adap_samsung_galaxy_store,
         R.drawable.adap_samsung_gallery,

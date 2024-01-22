@@ -105,6 +105,9 @@
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
         drawable="adap_samsung_files" />
     <item
+        component="ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.SplashActivity}"
+        drawable="adap_samsung_find" />
+    <item
         component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}"
         drawable="adap_samsung_flow" />
     <item
