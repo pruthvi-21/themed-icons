@@ -19,6 +19,7 @@ object PreviewItems {
         R.drawable.adap_samsung_game_launcher,
         R.drawable.adap_samsung_good_lock,
         R.drawable.adap_samsung_health,
+        R.drawable.adap_samsung_keys_cafe,
         R.drawable.adap_samsung_magician,
         R.drawable.adap_samsung_members,
         R.drawable.adap_samsung_messaging,

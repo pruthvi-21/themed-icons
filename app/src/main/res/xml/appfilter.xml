@@ -129,6 +129,9 @@
         component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
         drawable="adap_samsung_health" />
     <item
+        component="ComponentInfo{com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity}"
+        drawable="adap_samsung_keys_cafe" />
+    <item
         component="ComponentInfo{com.samsung.samsungpssdplus/com.samsung.samsungpssdplus.ui.SplashScreen}"
         drawable="adap_samsung_magician" />
     <item
