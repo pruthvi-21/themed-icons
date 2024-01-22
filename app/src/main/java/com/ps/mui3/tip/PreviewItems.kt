@@ -7,6 +7,7 @@ object PreviewItems {
         R.drawable.adap_samsung_calculator,
         R.drawable.adap_samsung_calendar,
         R.drawable.adap_samsung_camera,
+        R.drawable.adap_samsung_camera_assistant,
         R.drawable.adap_samsung_clock,
         R.drawable.adap_samsung_contacts,
         R.drawable.adap_samsung_email,

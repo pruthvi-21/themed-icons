@@ -93,6 +93,9 @@
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="adap_samsung_camera" />
     <item
+        component="ComponentInfo{com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity}"
+        drawable="adap_samsung_camera_assistant" />
+    <item
         component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
         drawable="adap_samsung_clock" />
     <item
