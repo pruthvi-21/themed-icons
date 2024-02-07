@@ -69,6 +69,9 @@
         component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
         drawable="adap_samsung_messaging" />
     <item
+        component="ComponentInfo{com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy}"
+        drawable="adap_samsung_modes_and_routines" />
+    <item
         component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
         drawable="adap_samsung_music" />
     <item
