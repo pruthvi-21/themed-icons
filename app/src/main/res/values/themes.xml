@@ -1,16 +1,13 @@
 <resources>
 
     <style name="BaseTheme" parent="Theme.MUI3ThemedIconPack">
-        <item name="colorSurface">@color/surface_bg</item>
-        <item name="android:colorBackground">@color/surface_bg</item>
-
         <item name="android:statusBarColor">?colorSurface</item>
         <item name="android:navigationBarColor">?colorSurface</item>
         <item name="android:windowLightStatusBar">?isLightTheme</item>
         <item name="android:windowLightNavigationBar">?isLightTheme</item>
     </style>
 
-    <style name="Theme.MUI3ThemedIconPack" parent="Theme.Material3.DayNight.NoActionBar">
-
+    <style name="Theme.MUI3ThemedIconPack" parent="Theme.Material3.DynamicColors.DayNight">
+        <item name="windowNoTitle">true</item>
     </style>
 </resources>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="surface_bg">#EAEAEA</color>
-
     <color name="fg_icon_tint">#F6F6F6</color>
     <color name="fg_icon_tint_light">@android:color/system_accent1_200</color>
     <color name="fg_icon_tint_dark">@android:color/system_accent1_600</color>
     <color name="bg_icon_tint">@android:color/system_accent1_400</color>
     <color name="bg_demo_color">#000</color>
     <color name="bg_stroke_color">#000000</color>
-
-    <color name="bg_google_icon_tint">#FFFFFF</color>
 </resources>
