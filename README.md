@@ -1,1 +1,1 @@
-# MUI3-Icons (Only for Samsung apps)
+# Themed Icons
