@@ -108,6 +108,9 @@
         component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
         drawable="adap_samsung_contacts" />
     <item
+        component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.ui.DefaultActivity}"
+        drawable="adap_samsung_device_care" />
+    <item
         component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
         drawable="adap_samsung_email" />
     <item

@@ -10,6 +10,7 @@ object PreviewItems {
         R.drawable.adap_samsung_camera_assistant,
         R.drawable.adap_samsung_clock,
         R.drawable.adap_samsung_contacts,
+        R.drawable.adap_samsung_device_care,
         R.drawable.adap_samsung_email,
         R.drawable.adap_samsung_files,
         R.drawable.adap_samsung_find,
