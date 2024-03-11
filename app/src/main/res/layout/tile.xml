@@ -5,7 +5,7 @@
 
     <ImageView
         android:id="@+id/tile_icon"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
         android:layout_margin="10dp" />
 </LinearLayout>
