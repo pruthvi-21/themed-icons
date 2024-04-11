@@ -67,5 +67,10 @@ object PreviewItems {
         R.drawable.adap_google_wallet,
         R.drawable.adap_google_youtube,
         R.drawable.adap_google_youtube_music,
+        R.drawable.adap_proton_calendar,
+        R.drawable.adap_proton_drive,
+        R.drawable.adap_proton_mail,
+        R.drawable.adap_proton_pass,
+        R.drawable.adap_proton_vpn,
     )
 }

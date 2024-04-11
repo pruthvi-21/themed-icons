@@ -84,6 +84,21 @@
         component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
         drawable="adap_google_youtube_music" />
     <item
+        component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}"
+        drawable="adap_proton_calendar" />
+    <item
+        component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}"
+        drawable="adap_proton_drive" />
+    <item
+        component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MainActivity}"
+        drawable="adap_proton_mail" />
+    <item
+        component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}"
+        drawable="adap_proton_pass" />
+    <item
+        component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}"
+        drawable="adap_proton_vpn" />
+    <item
         component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
         drawable="adap_samsung_ar_zone" />
     <item
