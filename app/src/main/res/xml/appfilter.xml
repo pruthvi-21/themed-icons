@@ -6,6 +6,57 @@
     <!--    <scale factor=".75" />-->
 
     <item
+        component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}"
+        drawable="adap_adobe_creative_cloud" />
+    <item
+        component="ComponentInfo{com.adobe.elements/com.adobe.elements.SplashScreen}"
+        drawable="adap_adobe_elements" />
+    <item
+        component="ComponentInfo{com.adobe.spark.post.beta/com.adobe.express.app.view.ExpressActivity}"
+        drawable="adap_adobe_express_beta" />
+    <item
+        component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}"
+        drawable="adap_adobe_fill_and_sign" />
+    <item
+        component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}"
+        drawable="adap_adobe_lightroom" />
+    <item
+        component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}"
+        drawable="adap_adobe_photoshop_express" />
+    <item
+        component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
+        drawable="adap_adobe_reader" />
+    <item
+        component="ComponentInfo{com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity}"
+        drawable="adap_adobe_rush" />
+    <item
+        component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}"
+        drawable="adap_adobe_scan" />
+    <item
+        component="ComponentInfo{com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity}"
+        drawable="adap_adobe_sign" />
+    <item
+        component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}"
+        drawable="adap_adobe_xd" />
+    <item
+        component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}"
+        drawable="adap_airtel" />
+    <item
+        component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}"
+        drawable="adap_backdrops" />
+    <item
+        component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}"
+        drawable="adap_chatgpt" />
+    <item
+        component="ComponentInfo{com.cricbuzz.android/com.cricbuzz.android.lithium.app.view.activity.NyitoActivity}"
+        drawable="adap_cricbuzz" />
+    <item
+        component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
+        drawable="adap_duolingo" />
+    <item
+        component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
+        drawable="adap_github" />
+    <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
         drawable="adap_google" />
     <item
@@ -84,6 +135,12 @@
         component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
         drawable="adap_google_youtube_music" />
     <item
+        component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}"
+        drawable="adap_jio" />
+    <item
+        component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
+        drawable="adap_keepassdroid" />
+    <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="adap_microsoft_365" />
     <item
@@ -128,6 +185,12 @@
     <item
         component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"
         drawable="adap_microsoft_word" />
+    <item
+        component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
+        drawable="adap_mix" />
+    <item
+        component="ComponentInfo{naukriApp.appModules.login/com.naukri.splash.SplashActivity}"
+        drawable="adap_naukri" />
     <item
         component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}"
         drawable="adap_proton_calendar" />
@@ -260,5 +323,8 @@
     <item
         component="ComponentInfo{com.samsung.android.forest/com.samsung.android.forest.launcher.LauncherActivity}"
         drawable="adap_samsung_wellbeing" />
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="adap_shazam" />
 
 </resources>
