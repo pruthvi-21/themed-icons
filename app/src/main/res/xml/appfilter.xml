@@ -111,6 +111,9 @@
         component="ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity}"
         drawable="adap_google_gpay" />
     <item
+        component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}"
+        drawable="adap_google_home" />
+    <item
         component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
         drawable="adap_google_keep" />
     <item

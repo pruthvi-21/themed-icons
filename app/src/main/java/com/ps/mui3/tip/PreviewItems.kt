@@ -52,6 +52,7 @@ object PreviewItems {
         R.drawable.adap_google_drive,
         R.drawable.adap_google_files,
         R.drawable.adap_google_gpay,
+        R.drawable.adap_google_home,
         R.drawable.adap_google_keep,
         R.drawable.adap_google_mail,
         R.drawable.adap_google_maps,
