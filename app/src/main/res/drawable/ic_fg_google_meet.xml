@@ -15,7 +15,7 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M65.35,65.91L65.35,42.12A4.32,4.32 0,0 0,61.03 37.8L43.77,37.8L34,47.57L34,65.91a4.32,4.32 0,0 0,4.32 4.32h22.7A4.32,4.32 0,0 0,65.35 65.91ZM74,42.12L74,65.91l-8.65,-7.57L65.35,49.69Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineJoin="round" />
 </vector>

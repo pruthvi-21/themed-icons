@@ -15,21 +15,21 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M47.49,52.11L60.62,52.11A1,1 0,0 1,61.62 53.11L61.62,64.08A1,1 0,0 1,60.62 65.08L47.49,65.08A1,1 0,0 1,46.49 64.08L46.49,53.11A1,1 0,0 1,47.49 52.11z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
         android:pathData="M61.62,58.59L46.49,58.59M54.05,52.11v12.97"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
         android:pathData="M68.11,43.19L68.11,72.38A1.62,1.62 0,0 1,66.49 74L41.62,74A1.62,1.62 0,0 1,40 72.38L40,35.62A1.62,1.62 0,0 1,41.62 34h17.3m9.19,9.19L60.54,43.19a1.62,1.62 0,0 1,-1.62 -1.62L58.92,34m9.19,9.19L58.92,34"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />

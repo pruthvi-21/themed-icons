@@ -15,12 +15,12 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M62.78,63.65L53.46,63.65v9.46c-4.46,0 -12.77,-12.06 -14.57,-15.82A11.22,11.22 0,0 1,49 41.22L62.78,41.22a11.22,11.22 0,1 1,0 22.43Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
         android:pathData="M45.22,35L59,35A11.22,11.22 0,0 1,70.22 46.22L70.22,46.22A11.22,11.22 0,0 1,59 57.43L45.22,57.43A11.22,11.22 0,0 1,34 46.22L34,46.22A11.22,11.22 0,0 1,45.22 35z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
 </vector>

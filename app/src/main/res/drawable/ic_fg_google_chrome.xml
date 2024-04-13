@@ -15,11 +15,11 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M54,74A20,20 0,1 0,34 54,20 20,0 0,0 54,74Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
     <path
         android:fillColor="#00000000"
         android:pathData="M54,61.57a7.57,7.57 0,1 0,-7.57 -7.57A7.57,7.57 0,0 0,54 61.57ZM54,46.43L71.84,46.43M60.55,57.78 L51.64,73.23M47.45,57.78 L38.53,42.34"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
 </vector>

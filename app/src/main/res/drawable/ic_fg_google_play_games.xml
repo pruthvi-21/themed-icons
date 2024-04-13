@@ -18,13 +18,13 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M36.41,44.86L47.85,44.86s6.93,0.15 7.93,5.65l2.43,12.97m-21.61,-0.54 l7.95,0.03 5.74,5.67"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
         android:fillColor="#00000000"
         android:pathData="M70.01,57.76 L42.48,73.42A4.32,4.32 0,0 1,36 69.67L36,38.34a4.32,4.32 0,0 1,6.48 -3.76L70.02,50.24a4.32,4.32 0,0 1,0 7.53Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
 </vector>

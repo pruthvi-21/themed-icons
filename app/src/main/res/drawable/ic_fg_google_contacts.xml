@@ -18,11 +18,11 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M52.14,51.83L55,51.83a8.53,8.53 0,0 1,8.53 8.53v1.12a8.53,8.53 0,0 1,-8.52 8.53L41.08,70A2.08,2.08 0,0 1,39 67.93v-2.95A13.15,13.15 0,0 1,52.14 51.83Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
     <path
         android:fillColor="#00000000"
         android:pathData="M52.98,51.83h7.48a8.53,8.53 0,0 1,8.53 8.53v1.12a8.53,8.53 0,0 1,-8.53 8.53L46.51,70A2.08,2.08 0,0 1,44.44 67.93v-7.57A8.53,8.53 0,0 1,52.98 51.83Z"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint" />
 </vector>

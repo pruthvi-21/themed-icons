@@ -15,13 +15,13 @@
     <path
         android:fillColor="#00000000"
         android:pathData="M54,38L54,56.38A1.62,1.62 0,0 1,52.38 58L34,58"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round" />
     <path
         android:fillColor="#00000000"
         android:pathData="M54,38L72.38,38A1.62,1.62 0,0 1,74 39.62L74,67.73a1.62,1.62 0,0 1,-1.62 1.62L35.62,69.35A1.62,1.62 0,0 1,34 67.73L34,44.49a1.62,1.62 0,0 1,1.62 -1.62L49.13,42.86M54,38 L34,58"
-        android:strokeWidth="3"
+        android:strokeWidth="2.5"
         android:strokeColor="@color/fg_icon_tint"
         android:strokeLineCap="round" />
 </vector>
