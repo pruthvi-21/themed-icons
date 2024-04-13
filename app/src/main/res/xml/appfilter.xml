@@ -6,6 +6,9 @@
     <!--    <scale factor=".75" />-->
 
     <item
+        component="ComponentInfo{in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity}"
+        drawable="adap_aadhaar" />
+    <item
         component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}"
         drawable="adap_adobe_creative_cloud" />
     <item
@@ -48,11 +51,20 @@
         component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}"
         drawable="adap_chatgpt" />
     <item
+        component="ComponentInfo{com.dreamplug.androidapp/com.dreamplug.androidapp.SplashActivity}"
+        drawable="adap_cred" />
+    <item
         component="ComponentInfo{com.cricbuzz.android/com.cricbuzz.android.lithium.app.view.activity.NyitoActivity}"
         drawable="adap_cricbuzz" />
     <item
+        component="ComponentInfo{com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity}"
+        drawable="adap_digilocker" />
+    <item
         component="ComponentInfo{com.discord/com.discord.main.MainDefault}"
         drawable="adap_discord" />
+    <item
+        component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}"
+        drawable="adap_duckduckgo" />
     <item
         component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
         drawable="adap_duolingo" />
@@ -144,11 +156,20 @@
         component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
         drawable="adap_google_youtube_music" />
     <item
+        component="ComponentInfo{com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a}"
+        drawable="adap_hdfc" />
+    <item
+        component="ComponentInfo{com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81}"
+        drawable="adap_icici" />
+    <item
         component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
         drawable="adap_instagram" />
     <item
         component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}"
         drawable="adap_jio" />
+    <item
+        component="ComponentInfo{money.jupiter/money.jupiter.MainActivity}"
+        drawable="adap_jupiter" />
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
         drawable="adap_keepassdroid" />
@@ -158,6 +179,9 @@
     <item
         component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}"
         drawable="adap_linkedin" />
+    <item
+        component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}"
+        drawable="adap_localsend" />
     <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="adap_microsoft_365" />
@@ -209,6 +233,18 @@
     <item
         component="ComponentInfo{naukriApp.appModules.login/com.naukri.splash.SplashActivity}"
         drawable="adap_naukri" />
+    <item
+        component="ComponentInfo{tech.fplabs.score/tech.fplabs.score.MainActivity}"
+        drawable="adap_onescore" />
+    <item
+        component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}"
+        drawable="adap_paytm" />
+    <item
+        component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}"
+        drawable="adap_payzapp" />
+    <item
+        component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}"
+        drawable="adap_phonepe" />
     <item
         component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}"
         drawable="adap_proton_calendar" />
@@ -354,15 +390,30 @@
         component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
         drawable="adap_snapchat" />
     <item
+        component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
+        drawable="adap_syncthing" />
+    <item
         component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
         drawable="adap_telegram" />
     <item
         component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}"
         drawable="adap_threads" />
     <item
+        component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}"
+        drawable="adap_umang" />
+    <item
+        component="ComponentInfo{com.infrasoft.uboi/com.infrasoft.uboi.VyomProdJanUIUX}"
+        drawable="adap_vyom" />
+    <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
         drawable="adap_whatsapp" />
     <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="adap_x" />
+    <item
+        component="ComponentInfo{com.zerodha.coin/com.zerodha.coin.MainActivity}"
+        drawable="adap_zerodha_coin" />
+    <item
+        component="ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}"
+        drawable="adap_zerodha_kite" />
 </resources>
