@@ -51,8 +51,17 @@
         component="ComponentInfo{com.cricbuzz.android/com.cricbuzz.android.lithium.app.view.activity.NyitoActivity}"
         drawable="adap_cricbuzz" />
     <item
+        component="ComponentInfo{com.discord/com.discord.main.MainDefault}"
+        drawable="adap_discord" />
+    <item
         component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
         drawable="adap_duolingo" />
+    <item
+        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="adap_facebook" />
+    <item
+        component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
+        drawable="adap_facebook_messenger" />
     <item
         component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
         drawable="adap_github" />
@@ -135,11 +144,20 @@
         component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
         drawable="adap_google_youtube_music" />
     <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="adap_instagram" />
+    <item
         component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}"
         drawable="adap_jio" />
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
         drawable="adap_keepassdroid" />
+    <item
+        component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
+        drawable="adap_line" />
+    <item
+        component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}"
+        drawable="adap_linkedin" />
     <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="adap_microsoft_365" />
@@ -206,6 +224,9 @@
     <item
         component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}"
         drawable="adap_proton_vpn" />
+    <item
+        component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}"
+        drawable="adap_reddit" />
     <item
         component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
         drawable="adap_samsung_ar_zone" />
@@ -326,5 +347,22 @@
     <item
         component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
         drawable="adap_shazam" />
-
+    <item
+        component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}"
+        drawable="adap_signal" />
+    <item
+        component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
+        drawable="adap_snapchat" />
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
+        drawable="adap_telegram" />
+    <item
+        component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}"
+        drawable="adap_threads" />
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="adap_whatsapp" />
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="adap_x" />
 </resources>
