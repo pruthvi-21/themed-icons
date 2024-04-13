@@ -48,6 +48,9 @@
         component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}"
         drawable="adap_backdrops" />
     <item
+        component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
+        drawable="adap_bitwarden" />
+    <item
         component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}"
         drawable="adap_chatgpt" />
     <item
@@ -56,6 +59,9 @@
     <item
         component="ComponentInfo{com.cricbuzz.android/com.cricbuzz.android.lithium.app.view.activity.NyitoActivity}"
         drawable="adap_cricbuzz" />
+    <item
+        component="ComponentInfo{com.dashlane/com.dashlane.ui.activities.SplashScreenActivity}"
+        drawable="adap_dashlane" />
     <item
         component="ComponentInfo{com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity}"
         drawable="adap_digilocker" />
@@ -162,6 +168,9 @@
         component="ComponentInfo{com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a}"
         drawable="adap_hdfc" />
     <item
+        component="ComponentInfo{hotspotshield.android.vpn/com.anchorfree.hotspotshield.ui.HssActivity}"
+        drawable="adap_hotspot_shield_vpn" />
+    <item
         component="ComponentInfo{com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81}"
         drawable="adap_icici" />
     <item
@@ -236,6 +245,9 @@
     <item
         component="ComponentInfo{naukriApp.appModules.login/com.naukri.splash.SplashActivity}"
         drawable="adap_naukri" />
+    <item
+        component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}"
+        drawable="adap_obsidian" />
     <item
         component="ComponentInfo{tech.fplabs.score/tech.fplabs.score.MainActivity}"
         drawable="adap_onescore" />
@@ -401,6 +413,9 @@
     <item
         component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}"
         drawable="adap_threads" />
+    <item
+        component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
+        drawable="adap_tor_browser" />
     <item
         component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}"
         drawable="adap_umang" />
