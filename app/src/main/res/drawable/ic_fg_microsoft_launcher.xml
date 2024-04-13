@@ -1,17 +1,8 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:width="108dp"
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path
-        android:fillType="evenOdd"
-        android:pathData="M81.57,26C74.96,19.35 65.06,18 54,18C42.93,18 33.04,19.35 26.43,26C21.17,31.3 18,39.97 18,54C18,68.03 21.17,76.7 26.43,82C33.04,88.65 42.94,90 54,90C65.06,90 74.96,88.65 81.56,82C86.83,76.7 90,68.03 90,54C90,39.97 86.83,31.3 81.57,26Z"
-        tools:fillAlpha="@dimen/demo_bg_fill_alpha"
-        tools:fillColor="@color/bg_demo_color"
-        tools:strokeAlpha="@dimen/bg_stroke_alpha"
-        tools:strokeColor="@color/bg_stroke_color"
-        tools:strokeWidth="@dimen/bg_stroke_width" />
     <path
         android:fillColor="@color/fg_icon_tint"
         android:pathData="M47.54,38.54a20.98,20.98 0,0 0,1.81 2.56c0.97,1.29 3.35,4.3 5.26,6.7 1.91,2.38 3.8,4.77 4.17,5.26l0.67,0.94c-2.18,2.98 -3.9,5.19 -5.21,6.83s-3.3,4.17 -4.42,5.64a18.56,18.56 0,0 0,-2.04 3.05c0,0.32 0.89,0.37 6.58,0.37h6.58c4.54,-5.49 6.8,-8.24 7.97,-9.68s2.53,-3.13 3.03,-3.8a3.23,3.23 0,0 0,0.92 -2.11c0.03,-0.72 -0.25,-1.27 -1.14,-2.53 -0.64,-0.89 -2.95,-3.85 -5.14,-6.58S62.21,39.81 61.71,39.28L60.82,38.37c-10.3,0 -13.28,0.07 -13.28,0.17Z" />
