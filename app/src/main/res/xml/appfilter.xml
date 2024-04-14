@@ -42,6 +42,15 @@
         component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}"
         drawable="adap_adobe_xd" />
     <item
+        component="ComponentInfo{com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity}"
+        drawable="adap_agoda" />
+    <item
+        component="ComponentInfo{com.bets.airindia.ui/com.bets.airindia.ui.ui.MainActivity}"
+        drawable="adap_air_india" />
+    <item
+        component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity}"
+        drawable="adap_airbnb" />
+    <item
         component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}"
         drawable="adap_airtel" />
     <item
@@ -50,6 +59,12 @@
     <item
         component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
         drawable="adap_bitwarden" />
+    <item
+        component="ComponentInfo{com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity}"
+        drawable="adap_book_my_show" />
+    <item
+        component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}"
+        drawable="adap_booking_com" />
     <item
         component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}"
         drawable="adap_chatgpt" />
@@ -75,6 +90,9 @@
         component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
         drawable="adap_duolingo" />
     <item
+        component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}"
+        drawable="adap_expedia" />
+    <item
         component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
         drawable="adap_facebook" />
     <item
@@ -83,6 +101,9 @@
     <item
         component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
         drawable="adap_github" />
+    <item
+        component="ComponentInfo{com.goibibo/com.goibibo.common.HomeActivity}"
+        drawable="adap_goibibo" />
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
         drawable="adap_google" />
@@ -168,11 +189,17 @@
         component="ComponentInfo{com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a}"
         drawable="adap_hdfc" />
     <item
+        component="ComponentInfo{com.hopper.mountainview.play/com.hopper.mountainview.activities.LaunchPage}"
+        drawable="adap_hopper" />
+    <item
         component="ComponentInfo{hotspotshield.android.vpn/com.anchorfree.hotspotshield.ui.HssActivity}"
         drawable="adap_hotspot_shield_vpn" />
     <item
         component="ComponentInfo{com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81}"
         drawable="adap_icici" />
+    <item
+        component="ComponentInfo{in.goindigo.android/in.goindigo.android.ui.modules.splash.SplashActivity}"
+        drawable="adap_indigo" />
     <item
         component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
         drawable="adap_instagram" />
@@ -182,6 +209,9 @@
     <item
         component="ComponentInfo{money.jupiter/money.jupiter.MainActivity}"
         drawable="adap_jupiter" />
+    <item
+        component="ComponentInfo{com.kayak.android/com.kayak.android.splash.SplashActivity}"
+        drawable="adap_kayak" />
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
         drawable="adap_keepassdroid" />
@@ -194,6 +224,9 @@
     <item
         component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}"
         drawable="adap_localsend" />
+    <item
+        component="ComponentInfo{com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity}"
+        drawable="adap_make_my_trip" />
     <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="adap_microsoft_365" />
@@ -249,6 +282,9 @@
         component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}"
         drawable="adap_obsidian" />
     <item
+        component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}"
+        drawable="adap_ola" />
+    <item
         component="ComponentInfo{tech.fplabs.score/tech.fplabs.score.MainActivity}"
         drawable="adap_onescore" />
     <item
@@ -275,6 +311,9 @@
     <item
         component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}"
         drawable="adap_proton_vpn" />
+    <item
+        component="ComponentInfo{in.redbus.android/in.redbus.android.root.SplashScreen}"
+        drawable="adap_redbus" />
     <item
         component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}"
         drawable="adap_reddit" />
@@ -402,6 +441,9 @@
         component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}"
         drawable="adap_signal" />
     <item
+        component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.shell.ui.activity.SplashActivity}"
+        drawable="adap_sky_scanner" />
+    <item
         component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
         drawable="adap_snapchat" />
     <item
@@ -417,8 +459,20 @@
         component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}"
         drawable="adap_tor_browser" />
     <item
+        component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.android.ui.launcher.LauncherActivity}"
+        drawable="adap_trip_advisor" />
+    <item
+        component="ComponentInfo{ctrip.english/com.ctrip.ibu.myctrip.main.module.home.IBUHomeActivity}"
+        drawable="adap_trip_com" />
+    <item
+        component="ComponentInfo{com.trivago/com.trivago.ft.main.frontend.MainActivity}"
+        drawable="adap_trivago" />
+    <item
         component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}"
         drawable="adap_umang" />
+    <item
+        component="ComponentInfo{com.vistara.tsal/com.vistara.tsal.activitysplash.SplashActivity}"
+        drawable="adap_vistara" />
     <item
         component="ComponentInfo{com.infrasoft.uboi/com.infrasoft.uboi.VyomProdJanUIUX}"
         drawable="adap_vyom" />
@@ -428,6 +482,9 @@
     <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="adap_x" />
+    <item
+        component="ComponentInfo{com.yatra.base/com.yatra.base.activity.SplashScreenActivity}"
+        drawable="adap_yatra" />
     <item
         component="ComponentInfo{com.zerodha.coin/com.zerodha.coin.MainActivity}"
         drawable="adap_zerodha_coin" />
