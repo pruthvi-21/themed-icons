@@ -45,6 +45,9 @@
         component="ComponentInfo{com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity}"
         drawable="adap_agoda" />
     <item
+        component="ComponentInfo{ahaflix.tv/ahaflix.tv.SplashActivity}"
+        drawable="adap_aha" />
+    <item
         component="ComponentInfo{com.bets.airindia.ui/com.bets.airindia.ui.ui.MainActivity}"
         drawable="adap_air_india" />
     <item
@@ -56,6 +59,21 @@
     <item
         component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}"
         drawable="adap_backdrops" />
+    <item
+        component="ComponentInfo{com.jamhub.barbeque/com.jamhub.barbeque.activity.login.SplashActivity}"
+        drawable="adap_barbeque_nation" />
+    <item
+        component="ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivityDefault}"
+        drawable="adap_bigbasket" />
+    <item
+        component="ComponentInfo{com.raincan.android.hybrid/com.raincan.app.v2.splash.activity.SplashActivity}"
+        drawable="adap_bigbasket_daily" />
+    <item
+        component="ComponentInfo{com.grofers.customerapp/com.grofers.customerapp.DEFAULT}"
+        drawable="adap_blinkit" />
+    <item
+        component="ComponentInfo{in.burgerking.android/in.burgerking.android.MainActivity}"
+        drawable="adap_burger_king" />
     <item
         component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}"
         drawable="adap_bitwarden" />
@@ -78,11 +96,23 @@
         component="ComponentInfo{com.dashlane/com.dashlane.ui.activities.SplashScreenActivity}"
         drawable="adap_dashlane" />
     <item
+        component="ComponentInfo{com.evamall.evacustomer/com.evamall.evacustomer.splash.SplashActivity}"
+        drawable="adap_decathlon" />
+    <item
+        component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.default}"
+        drawable="adap_deliveroo" />
+    <item
         component="ComponentInfo{com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity}"
         drawable="adap_digilocker" />
     <item
         component="ComponentInfo{com.discord/com.discord.main.MainDefault}"
         drawable="adap_discord" />
+    <item
+        component="ComponentInfo{com.Dominos/com.Dominos.activity.alias.LauncherDefaultAlias}"
+        drawable="adap_dominos" />
+    <item
+        component="ComponentInfo{com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity}"
+        drawable="adap_doordash" />
     <item
         component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}"
         drawable="adap_duckduckgo" />
@@ -99,8 +129,14 @@
         component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
         drawable="adap_facebook_messenger" />
     <item
+        component="ComponentInfo{com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity}"
+        drawable="adap_foodpanda" />
+    <item
         component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
         drawable="adap_github" />
+    <item
+        component="ComponentInfo{com.glovo/com.glovoapp.onboarding.splash.SplashActivity}"
+        drawable="adap_glovo" />
     <item
         component="ComponentInfo{com.goibibo/com.goibibo.common.HomeActivity}"
         drawable="adap_goibibo" />
@@ -207,6 +243,9 @@
         component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}"
         drawable="adap_jio" />
     <item
+        component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1}"
+        drawable="adap_jio_mart" />
+    <item
         component="ComponentInfo{money.jupiter/money.jupiter.MainActivity}"
         drawable="adap_jupiter" />
     <item
@@ -215,6 +254,12 @@
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
         drawable="adap_keepassdroid" />
+    <item
+        component="ComponentInfo{com.yum.kfc/com.cognizantorderserv.kfcindiadroid.MainActivity}"
+        drawable="adap_kfc" />
+    <item
+        component="ComponentInfo{com.licious/com.licious.onboarding.presentation.splash.SplashActivity}"
+        drawable="adap_licious" />
     <item
         component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
         drawable="adap_line" />
@@ -227,6 +272,12 @@
     <item
         component="ComponentInfo{com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity}"
         drawable="adap_make_my_trip" />
+    <item
+        component="ComponentInfo{com.il.mcdelivery/com.il.mcdelivery.MainActivity}"
+        drawable="adap_mcdelivery" />
+    <item
+        component="ComponentInfo{com.mcdonalds.mobileapp/com.mcdonalds.mobileapp.redesign.MainActivity}"
+        drawable="adap_mcdonalds" />
     <item
         component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="adap_microsoft_365" />
@@ -276,8 +327,14 @@
         component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
         drawable="adap_mix" />
     <item
+        component="ComponentInfo{com.myntra.android/com.myntra.android.activities.react.ReactActivity}"
+        drawable="adap_myntra" />
+    <item
         component="ComponentInfo{naukriApp.appModules.login/com.naukri.splash.SplashActivity}"
         drawable="adap_naukri" />
+    <item
+        component="ComponentInfo{com.fsn.nykaa/com.fsn.nykaa.SplashScreenActivity}"
+        drawable="adap_nykaa" />
     <item
         component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}"
         drawable="adap_obsidian" />
@@ -288,6 +345,9 @@
         component="ComponentInfo{tech.fplabs.score/tech.fplabs.score.MainActivity}"
         drawable="adap_onescore" />
     <item
+        component="ComponentInfo{com.oyo.consumer/com.oyo.consumer.activity.LauncherActivity}"
+        drawable="adap_oyo" />
+    <item
         component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}"
         drawable="adap_paytm" />
     <item
@@ -296,6 +356,9 @@
     <item
         component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}"
         drawable="adap_phonepe" />
+    <item
+        component="ComponentInfo{com.phdv.universal/com.phdv.universal.feature.main.MainActivity}"
+        drawable="adap_pizza_hut" />
     <item
         component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}"
         drawable="adap_proton_calendar" />
@@ -447,8 +510,17 @@
         component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
         drawable="adap_snapchat" />
     <item
+        component="ComponentInfo{com.starbucks.in/com.tsb.app.home.presentation.view.activity.HomeActivity}"
+        drawable="adap_starbucks" />
+    <item
+        component="ComponentInfo{in.swiggy.android/in.swiggy.android.activities.HomeActivity}"
+        drawable="adap_swiggy" />
+    <item
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
         drawable="adap_syncthing" />
+    <item
+        component="ComponentInfo{com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity}"
+        drawable="adap_tata_1mg" />
     <item
         component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}"
         drawable="adap_telegram" />
@@ -467,6 +539,9 @@
     <item
         component="ComponentInfo{com.trivago/com.trivago.ft.main.frontend.MainActivity}"
         drawable="adap_trivago" />
+    <item
+        component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity}"
+        drawable="adap_uber_eats" />
     <item
         component="ComponentInfo{in.gov.umang.negd.g2c/in.gov.umang.negd.g2c.kotlin.ui.splash.SplashActivity}"
         drawable="adap_umang" />
@@ -491,4 +566,7 @@
     <item
         component="ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}"
         drawable="adap_zerodha_kite" />
+    <item
+        component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}"
+        drawable="adap_zomato" />
 </resources>
