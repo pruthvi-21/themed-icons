@@ -9,6 +9,9 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.bumptech.glide.load.engine.DiskCacheStrategy
+import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.google.android.flexbox.FlexboxLayoutManager
 import com.google.android.flexbox.JustifyContent
 
@@ -40,7 +43,12 @@ class MainActivity : AppCompatActivity() {
         override fun getItemCount() = list.size
 
         override fun onBindViewHolder(holder: RVViewHolder, position: Int) {
-            holder.iconView.setImageResource(list[position])
+            Glide.with(context)
+                .load(list[position])
+                .skipMemoryCache(true)
+                .transition(DrawableTransitionOptions.withCrossFade(300))
+                .diskCacheStrategy(DiskCacheStrategy.NONE)
+                .into(holder.iconView)
         }
 
         class RVViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
