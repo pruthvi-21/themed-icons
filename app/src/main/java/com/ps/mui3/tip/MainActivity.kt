@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.search.SearchBar
 import com.google.android.material.search.SearchView
+import com.pluscubed.recyclerfastscroll.RecyclerFastScroller
 import com.ps.mui3.tip.icons.IconsAdapter
 import com.ps.mui3.tip.icons.IconsHelper
 import com.ps.mui3.tip.utils.DebounceJob
@@ -22,6 +23,7 @@ class MainActivity : AppCompatActivity() {
     private val searchResultCount: TextView by lazy { findViewById(R.id.search_result_count) }
     private val recyclerView: RecyclerView by lazy { findViewById(R.id.recycler_view) }
     private val searchRecyclerView: RecyclerView by lazy { findViewById(R.id.search_recycler_view) }
+    private val fastScroller: RecyclerFastScroller by lazy { findViewById(R.id.fast_scroller) }
 
     private val debounceJob = DebounceJob()
 
@@ -43,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         searchBar.hint = getString(R.string.search_bar_hint, allIcons.size)
 
         searchView.setupWithSearchBar(searchBar)
+        fastScroller.attachRecyclerView(recyclerView)
 
         searchView.editText.doOnTextChanged { text, _, _, _ ->
             fun performSearch(filter: String) {
