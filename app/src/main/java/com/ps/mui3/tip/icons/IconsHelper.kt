@@ -28,7 +28,6 @@ object IconsHelper {
                     val info = IconInfo(componentName, itemDrawableName, itemLabel, drawableRes)
                     icons.add(info)
                 }
-                Log.e("TAG", "getIconsList: " + parser.name)
             }
             eventType = parser.next()
         }
