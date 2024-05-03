@@ -24,6 +24,6 @@
         android:strokeWidth="2.5"
         android:strokeColor="@color/bg_icon_tint" />
     <path
-        android:fillColor="@color/fg_icon_tint_dark"
+        android:fillColor="@color/bg_icon_tint"
         android:pathData="M43.5,47.44a5.47,5.47 0,0 1,3.62 1.06,3.78 3.78,0 0,1 1.25,3.06A3.58,3.58 0,0 1,47.75 53.64a4.15,4.15 0,0 1,-1.76 1.56,6 6,0 0,1 -2.65,0.56L40.82,55.75v4.81L38.25,60.56L38.25,47.44ZM40.82,53.58L43.04,53.58a2.88,2.88 0,0 0,1.96 -0.58,1.45 1.45,0 0,0 0.66,-1.35q0,-2.18 -2.54,-2.18h-2.3Z" />
 </vector>

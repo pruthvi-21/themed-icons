@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Themed Icons</string>
+    <string name="dialog_sub_head_drawable_name">Drawable:</string>
+    <string name="dialog_sub_head_package_name">Package Name:</string>
+    <string name="dialog_sub_head_classname">Classname:</string>
 </resources>

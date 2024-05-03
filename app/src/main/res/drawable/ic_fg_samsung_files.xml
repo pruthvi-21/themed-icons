@@ -4,7 +4,8 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
     <path
-        android:fillColor="@color/fg_icon_tint_light"
+        android:fillAlpha="0.65"
+        android:fillColor="@color/fg_icon_tint"
         android:fillType="evenOdd"
         android:pathData="M38.76,42.22L55.03,42.22L54.3,39.67C54.08,38.92 53.61,38.28 52.98,37.83C52.34,37.38 51.58,37.15 50.8,37.19L36.52,37.19C35.59,37.19 34.7,37.55 34.05,38.21C33.39,38.87 33.02,39.76 33.02,40.68L33.02,47.93C33.02,46.93 33.29,45.94 33.79,45.07C34.29,44.2 35.02,43.48 35.89,42.98C36.76,42.48 37.76,42.22 38.76,42.22Z" />
     <path

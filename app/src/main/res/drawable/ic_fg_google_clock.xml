@@ -1,34 +1,43 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="108dp"
-    android:height="108dp"
-    android:viewportWidth="108"
-    android:viewportHeight="108">
-    <path
-        android:fillColor="#00000000"
-        android:pathData="M53.6,54.02h0l-9.12,-5.24h0Z"
-        android:strokeWidth="2.5"
-        android:strokeColor="@color/fg_icon_tint"
-        android:strokeLineJoin="round" />
-    <path
-        android:fillColor="#00000000"
-        android:pathData="M54,34a20,20 0,1 1,-20 20A20.01,20.01 0,0 1,54 34Z"
-        android:strokeWidth="2.5"
-        android:strokeColor="@color/fg_icon_tint" />
-    <path
-        android:fillColor="#00000000"
-        android:pathData="M67.92,46h0l-13.92,8h0Z"
-        android:strokeWidth="1.5"
-        android:strokeColor="@color/fg_icon_tint"
-        android:strokeLineJoin="round" />
-    <path
-        android:fillColor="#00000000"
-        android:pathData="M54,54.4h0v16h0Z"
-        android:strokeWidth="0.5"
-        android:strokeColor="@color/fg_icon_tint"
-        android:strokeLineJoin="round" />
-    <path
-        android:fillColor="@color/fg_icon_tint"
-        android:pathData="M54,52.67a1.33,1.33 0,1 1,-1.33 1.33A1.33,1.33 0,0 1,54 52.67Z"
-        android:strokeWidth="1"
-        android:strokeColor="@color/fg_icon_tint" />
-</vector>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate
+            android:fromDegrees="300.0"
+            android:pivotX="50.0%"
+            android:pivotY="50.0%"
+            android:toDegrees="5300.0">
+            <inset android:inset="15.999996%">
+                <vector
+                    android:width="60.0dip"
+                    android:height="60.0dip"
+                    android:viewportWidth="60.0"
+                    android:viewportHeight="60.0">
+                    <path
+                        android:fillColor="@color/fg_icon_tint"
+                        android:pathData="M 30 31 L 30 31 C 30.552 31 31 30.552 31 30 L 31 12 C 31 11.448 30.552 11 30 11 L 30 11 C 29.448 11 29 11.448 29 12 L 29 30 C 29 30.552 29.448 31 30 31 Z" />
+                </vector>
+            </inset>
+        </rotate>
+    </item>
+    <item>
+        <rotate
+            android:fromDegrees="60.0"
+            android:pivotX="50.0%"
+            android:pivotY="50.0%"
+            android:toDegrees="60060.0">
+            <inset android:inset="15.999996%">
+                <vector
+                    android:width="60.0dip"
+                    android:height="60.0dip"
+                    android:viewportWidth="60.0"
+                    android:viewportHeight="60.0">
+                    <path
+                        android:fillColor="@color/fg_icon_tint"
+                        android:pathData="M 30 7.021 H 30 A 1 1 0 0 1 31 8.021 V 30.021 A 1 1 0 0 1 30 31.021 H 30 A 1 1 0 0 1 29 30.021 V 8.021 A 1 1 0 0 1 30 7.021 Z" />
+                    <path
+                        android:fillColor="@color/fg_icon_tint"
+                        android:pathData="M 33 30 C 33 28.343 31.657 27 30 27 C 28.343 27 27 28.343 27 30 C 27 31.657 28.343 33 30 33 C 31.657 33 33 31.657 33 30 Z" />
+                </vector>
+            </inset>
+        </rotate>
+    </item>
+</layer-list>

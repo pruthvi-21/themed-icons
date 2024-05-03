@@ -5,6 +5,7 @@
     android:viewportHeight="108">
     <path
         android:fillColor="@color/fg_icon_tint"
+        android:fillAlpha="0.65"
         android:pathData="M 61.75 41.25 M 61.75 41.25 C 61.75 45.53 58.28 49 54 49 C 49.72 49 46.25 45.53 46.25 41.25 C 46.25 36.97 49.72 33.5 54 33.5 C 58.28 33.5 61.75 36.97 61.75 41.25" />
     <path
         android:fillColor="@color/fg_icon_tint"
