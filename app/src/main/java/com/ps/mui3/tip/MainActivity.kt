@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-        private const val DEBOUNCE_DELAY = 500L
+        private const val DEBOUNCE_DELAY = 200L
         private const val GRID_COUNT = 4
     }
 }
