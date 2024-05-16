@@ -2,6 +2,7 @@ package com.ps.mui3.tip
 
 import android.os.Bundle
 import android.widget.TextView
+import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.isVisible
 import androidx.core.widget.doOnTextChanged
@@ -62,6 +63,13 @@ class MainActivity : AppCompatActivity() {
                 }.invoke()
             }
         }
+
+        onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
+            override fun handleOnBackPressed() {
+                if (searchView.isShowing) searchView.hide()
+                else onBackPressedDispatcher.onBackPressed()
+            }
+        })
     }
 
     companion object {
