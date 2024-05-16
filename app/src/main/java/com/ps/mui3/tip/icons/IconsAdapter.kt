@@ -76,6 +76,8 @@ class IconsAdapter(
             icons.forEach {
                 if (it.label.contains(filter.trim(), true))
                     filteredIcons.add(it)
+                else if (it.drawableName.contains(filter.trim(), true))
+                    filteredIcons.add(it)
             }
         }
 
