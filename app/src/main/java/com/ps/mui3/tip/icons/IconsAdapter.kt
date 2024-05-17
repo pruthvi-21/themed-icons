@@ -46,13 +46,11 @@ class IconsAdapter(
         val iconLabel: TextView = dialogView.findViewById(R.id.icon_label)
         val iconDrawableName: TextView = dialogView.findViewById(R.id.icon_drawable_name)
         val iconPackageName: TextView = dialogView.findViewById(R.id.icon_package_name)
-        val iconClassName: TextView = dialogView.findViewById(R.id.icon_class_name)
 
         loadIcon(iconView, iconInfo.drawableResId)
         iconLabel.text = iconInfo.label
         iconDrawableName.text = iconInfo.drawableName
         iconPackageName.text = iconInfo.packageName
-        iconClassName.text = iconInfo.className
 
         return MaterialAlertDialogBuilder(context)
             .setView(dialogView)

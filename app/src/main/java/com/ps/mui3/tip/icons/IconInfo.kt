@@ -13,11 +13,6 @@ class IconInfo(
             return componentName?.packageName ?: ""
         }
 
-    val className: String
-        get() {
-            return componentName?.className ?: ""
-        }
-
     val label: String
         get() {
             return iconLabel ?: drawableName
