@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val allIcons = IconsHelper.getIconsList(this)
+        val allIcons = IconsHelper.getIconsList(this, true)
         val allIconsAdapter = IconsAdapter(this, allIcons)
         val searchIconsAdapter = IconsAdapter(this, allIcons)
 

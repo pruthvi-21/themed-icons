@@ -4,14 +4,14 @@ import android.annotation.SuppressLint
 import android.content.ComponentName
 import android.content.Context
 import android.graphics.drawable.Drawable
-import android.util.Log
 import androidx.core.content.ContextCompat
 import com.ps.mui3.tip.R
 import org.xmlpull.v1.XmlPullParser
+import java.util.Locale
 
 object IconsHelper {
     @Throws(Exception::class)
-    fun getIconsList(context: Context): List<IconInfo> {
+    fun getIconsList(context: Context, sorted: Boolean = false): List<IconInfo> {
         val parser = context.resources.getXml(R.xml.appfilter)
         var eventType = parser.eventType
         val icons: MutableList<IconInfo> = ArrayList()
@@ -32,6 +32,11 @@ object IconsHelper {
             eventType = parser.next()
         }
         parser.close()
+
+        if(sorted) {
+            icons.sortBy { it.label.lowercase(Locale.ROOT) }
+        }
+
         return icons
     }
 
