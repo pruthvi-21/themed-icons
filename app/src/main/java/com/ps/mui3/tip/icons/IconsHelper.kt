@@ -25,8 +25,10 @@ object IconsHelper {
                     val componentName = ComponentName.unflattenFromString(itemComponentInfo)
                     val drawableRes = getDrawableResByName(context, itemDrawableName)
 
-                    val info = IconInfo(componentName, itemDrawableName, itemLabel, drawableRes)
-                    icons.add(info)
+                    if (itemLabel != null) {
+                        val info = IconInfo(componentName, itemDrawableName, itemLabel, drawableRes)
+                        icons.add(info)
+                    }
                 }
             }
             eventType = parser.next()
