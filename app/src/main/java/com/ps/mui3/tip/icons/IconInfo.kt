@@ -10,11 +10,16 @@ class IconInfo(
 ) {
     val packageName: String
         get() {
-            return componentName?.packageName ?: ""
+            val name = componentName?.packageName ?: ""
+            return name.run {
+                if (startsWith(componentInfoLabel)) substring(componentInfoLabel.length) else this
+            }
         }
 
     val label: String
         get() {
             return iconLabel ?: drawableName
         }
+
+    private val componentInfoLabel = "ComponentInfo{"
 }
