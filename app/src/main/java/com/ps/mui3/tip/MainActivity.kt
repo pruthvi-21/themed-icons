@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
         onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
             override fun handleOnBackPressed() {
                 if (searchView.isShowing) searchView.hide()
-                else onBackPressedDispatcher.onBackPressed()
+                else finish()
             }
         })
     }
