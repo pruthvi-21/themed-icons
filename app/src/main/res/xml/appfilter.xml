@@ -662,6 +662,15 @@
         drawable="adap_duolingo"
         label="Duolingo" />
     <item
+        component="com.duolingo/com.google.android.archive.ReactivateActivity"
+        drawable="adap_duolingo" />
+    <item
+        component="com.duolingo/com.duolingo.app.LaunchActivity"
+        drawable="adap_duolingo" />
+    <item
+        component="com.duolingo/com.duolingo.app.StreakSocietyLauncher"
+        drawable="adap_duolingo" />
+    <item
         component="com.akbon.myd/com.akbon.myd.MainActivity"
         drawable="adap_dynamic_icons"
         label="Dynamic Icons" />
@@ -797,6 +806,21 @@
         component="com.flightradar24free/com.flightradar24free.feature.feature.splash.view.SplashActivity"
         drawable="adap_flightradar24"
         label="Flightradar24" />
+    <item
+        component="com.flightradar24free/com.flightradar24free.feature.splash.view.SplashActivity"
+        drawable="adap_flightradar24" />
+    <item
+        component="com.flightradar24free/com.flightradar24free.feature.splash.SplashActivity"
+        drawable="adap_flightradar24" />
+    <item
+        component="com.flightradar24free/com.flightradar24free.FreeSplashActivity"
+        drawable="adap_flightradar24" />
+    <item
+        component="com.flightradar24free/com.flightradar24free.MainActivity"
+        drawable="adap_flightradar24" />
+    <item
+        component="com.flightradar24free/com.flightradar24free.SplashActivity"
+        drawable="adap_flightradar24" />
     <item
         component="flipboard.app/flipboard.activities.LaunchActivityAlias"
         drawable="adap_flipboard"
@@ -2062,9 +2086,18 @@
         drawable="adap_proton_drive"
         label="Proton Drive" />
     <item
-        component="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MainActivity"
+        component="ch.protonmail.android/ch.protonmail.android.MainActivity"
         drawable="adap_proton_mail"
         label="Proton Mail" />
+    <item
+        component="ch.protonmail.android/ch.protonmail.android.activities.SplashActivity"
+        drawable="adap_proton_mail" />
+    <item
+        component="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.MailboxActivity"
+        drawable="adap_proton_mail" />
+    <item
+        component="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity"
+        drawable="adap_proton_mail" />
     <item
         component="proton.android.pass/proton.android.pass.ui.MainActivity"
         drawable="adap_proton_pass"
@@ -2201,6 +2234,33 @@
         component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity"
         drawable="adap_samsung_files"
         label="My Files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.ForMyFilesAppIconInHomeScreenActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/.common.MainActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.LaunchActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles"
+        drawable="adap_samsung_files" />
+    <item
+        component="com.sec.android.app.myfiles/.external.ui.MainActivity"
+        drawable="adap_samsung_files" />
     <item
         component="com.samsung.android.app.find/com.samsung.android.app.find.SplashActivity"
         drawable="adap_samsung_find"
