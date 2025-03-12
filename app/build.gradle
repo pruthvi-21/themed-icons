@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.ps.mui3.tip'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.ps.mui3.tip"
         minSdk 31
-        targetSdk 34
+        targetSdk 35
         versionCode 9
         versionName "3.1.2"
     }
