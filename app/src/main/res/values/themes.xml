@@ -1,11 +1,6 @@
 <resources>
 
     <style name="BaseTheme" parent="Theme.MUI3ThemedIconPack">
-        <item name="android:statusBarColor">?colorSurface</item>
-        <item name="android:navigationBarColor">?colorSurface</item>
-        <item name="android:windowLightStatusBar">?isLightTheme</item>
-        <item name="android:windowLightNavigationBar">?isLightTheme</item>
-
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
     </style>
 
