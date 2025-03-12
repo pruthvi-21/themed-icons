@@ -394,6 +394,10 @@
         drawable="adap_botim"
         label="Botim" />
     <item
+        component="ComponentInfo{com.boxy.authenticator/com.boxy.authenticator.MainActivity}"
+        drawable="adap_boxy_authenticator"
+        label="Boxy Authenticator" />
+    <item
         component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}"
         drawable="adap_brave_browser"
         label="Brave Browser" />
@@ -497,6 +501,10 @@
         component="ComponentInfo{com.coinswitch.kuber/com.coinswitch.kuber.SplashActivity}"
         drawable="adap_coinswitch"
         label="Coinswitch" />
+    <item
+        component="ComponentInfo{com.psoffritti.compress.image/com.psoffritti.compress.image.ui.MainActivity}"
+        drawable="adap_compress_image"
+        label="Compress Image" />
     <item
         component="ComponentInfo{com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity}"
         drawable="adap_confirmtkt"
@@ -702,6 +710,10 @@
         component="ComponentInfo{com.emirates.ek.android/com.emirates.startup.StartupActivity}"
         drawable="adap_emirates"
         label="Emirates" />
+    <item
+        component="ComponentInfo{io.ente.photos/io.ente.photos.MainActivity}"
+        drawable="adap_ente"
+        label="Ente Photos" />
     <item
         component="ComponentInfo{com.iexceed.equitas.consumer/com.iexceed.equitas.consumer.AppzillonMainScreen}"
         drawable="adap_equitas_bank"
@@ -1165,6 +1177,10 @@
         component="ComponentInfo{com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a}"
         drawable="adap_hdfc"
         label="HDFC" />
+    <item
+        component="ComponentInfo{com.hdfcbank.android.now/com.hdfcbank.android.now.launcher_41cf6fca43d944f0d836ecaaae18dee1bb3e1bfba101fcc59764bc1b35526221}"
+        drawable="adap_hdfc"
+        label="HDFC Bank App" />
     <item
         component="ComponentInfo{org.npci.token.hdfc/org.npci.token.RootAppActivity}"
         drawable="adap_hdfc_bank_digital_rupee"
@@ -1801,6 +1817,10 @@
         component="ComponentInfo{in.mohalla.video/in.mohalla.sharechat.splash.SplashActivity}"
         drawable="adap_moj"
         label="Moj" />
+    <item
+        component="ComponentInfo{com.atistudios.mondly.languages/com.atistudios.features.splash.presentation.SplashActivity}"
+        drawable="adap_mondly_languages"
+        label="Mondly Languages" />
     <item
         component="ComponentInfo{com.mpokket.app/com.mpokket.app.loginandregistration.presentation.ui.activities.SplashActivity}"
         drawable="adap_mpokket"
@@ -2649,6 +2669,10 @@
         component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
         drawable="adap_syncthing"
         label="Syncthing" />
+    <item
+        component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}"
+        drawable="adap_syncthing"
+        label="Syncthing-Fork" />
     <item
         component="ComponentInfo{rikka.fpsmonitor/rikka.fpsmonitor.component.home.HomeActivity}"
         drawable="adap_takostats"
