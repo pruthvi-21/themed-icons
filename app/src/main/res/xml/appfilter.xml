@@ -619,8 +619,8 @@
         label="discovery+" />
     <item
         component="ComponentInfo{in.startv.hotstar/com.hotstar.MainActivity}"
-        drawable="adap_disney_hotstar"
-        label="Hotstar" />
+        drawable="adap_jiohotstar"
+        label="JioHotstar" />
     <item
         component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}"
         drawable="adap_disney_plus"
@@ -774,6 +774,10 @@
         component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.MainActivity}"
         drawable="adap_feedly"
         label="Feedly" />
+    <item
+        component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}"
+        drawable="adap_fennec_fdroid"
+        label="Fennec F-Droid" />
     <item
         component="ComponentInfo{com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity}"
         drawable="adap_fi_money"
@@ -1437,6 +1441,10 @@
         component="ComponentInfo{com.kayak.android/com.kayak.android.splash.SplashActivity}"
         drawable="adap_kayak"
         label="Kayak" />
+    <item
+        component="ComponentInfo{keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass}"
+        drawable="adap_keepass2android"
+        label="Keepass2Android" />
     <item
         component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}"
         drawable="adap_keepassdroid"
